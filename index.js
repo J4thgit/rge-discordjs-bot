@@ -192,5 +192,5 @@ function help(message, serverQueue) {
 
 }
 
-client.login("NzU0MDIwNjc5NDg5MTU5Mjg5.X1uqew.blTQVQoVg6yEMeA1d5MmIaJXs8Y");
+client.login("Token");
 
